@@ -1,0 +1,57 @@
+For customer
+-------------
+
+{
+  "address": "bengaluru",
+  "email": "ravi@gmail.com",
+  "mobile": "9871198711",
+  "password": "ravi@123",
+  "username": "ravi"
+}
+
+For cab driver & cab
+---------------------
+
+{
+  "address": "bengaluru",
+  "carType": "Sedan",
+  "email": "pran@gmail.com",
+  "licenseNumber": "MH1420220062821",
+  "mobile": "7856903211",
+  "numberPlate": "DL12BK9087",
+  "password": "pran@123",
+  "ratePerKms": 10,
+  "username": "prangupta"
+}
+
+For admin
+----------
+
+{
+  "address": "bengaluru",
+  "email": "garv@gmail.com",
+  "mobile": "8932895476",
+  "password": "garv@123",
+  "username": "garvsingh"
+}
+
+
+For booking trips
+-----------------
+
+{
+     "username":"ritesh",
+     "password":"54321",
+     "fromLocation":"delhi",
+     "toLocation":"indore"
+}
+
+For trip completion & status updation
+-------------------
+
+{
+  "password": "pran@123",
+ "username":"prangupta"
+}
+
+
